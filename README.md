@@ -12,9 +12,9 @@ This project analyzes user behavior and content consumption patterns for BrightT
 
 ##🔍 Key Insights
 
-**Viewership is concentrated during specific hours (typically evenings), indicating strong prime-time engagement behavior.
--**Certain content categories drive significantly higher engagement, suggesting strong audience preference trends.
-**-Some days show consistently lower activity, presenting opportunities for targeted interventions.
+Viewership is concentrated during specific hours (typically evenings), indicating strong prime-time engagement behavior.
+-Certain content categories drive significantly higher engagement, suggesting strong audience preference trends.
+-Some days show consistently lower activity, presenting opportunities for targeted interventions.
 -Age and possibly gender segments show variation in viewing duration and content preferences.
 
 --
